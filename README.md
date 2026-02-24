@@ -1,8 +1,8 @@
 ## Code-eat-Sleep
 
-# Python Practice for AI
+# Python
 
-This repository contains my Python practice codes. 
+This repository contains my Python codes. 
 
 ## Folder Structure
 - `scripts/` → Python scripts from practice sessions.
